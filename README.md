@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 14 years old student from Taiwan..
+I'm a 16 years old student from Taiwan..
 
 | Stats | Stats |
 | -------- | -------- |
