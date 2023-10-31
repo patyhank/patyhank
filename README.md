@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a 16 years old student from Taiwan..
+I'm a 16 years old (homeschooling) student from Taiwan..
+
+My work mainly focuses on the Bot or Client of "Minecraft".
 
 | Stats | Stats |
 | -------- | -------- |
